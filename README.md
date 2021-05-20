@@ -1,2 +1,3 @@
 20192847 YEJIN JANG
-Kookmin Univ. SW
+
+Kookmin Univ. MIS 19
