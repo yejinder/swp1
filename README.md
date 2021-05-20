@@ -2,4 +2,4 @@
 20192847 -  YEJIN JANG
 
 
-Kookmin Univ. MIS 19
+Kookmin Univ. CS
