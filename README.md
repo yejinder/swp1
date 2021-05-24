@@ -1,5 +1,5 @@
 
 20192847 -  YEJIN JANG
 
-Kookmin Univ. CS
+Kookmin Univ. School of Computer Science
 
